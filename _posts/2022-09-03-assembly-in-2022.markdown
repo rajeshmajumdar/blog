@@ -1,3 +1,5 @@
+# Assembly in 2022
+
 Ever since I learned how to code, I always wanted to make my own programming language. Although at that time I was just a kid and had no idea how bad that decision was. Anyhow now that I somewhat know how to code I decided to go on that quest again.
 
 Initially I wrote an interpreted language like Python, it was fun and hectic at the same time. But after some time, I realised it's not enough I can't call it a real language if it can't compile itself. So I decided to learn assembly.
