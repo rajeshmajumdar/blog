@@ -1,0 +1,9 @@
+Ever since I learned how to code, I always wanted to make my own programming language. Although at that time I was just a kid and had no idea how bad that decision was. Anyhow now that I somewhat know how to code I decided to go on that quest again.
+
+Initially I wrote an interpreted language like Python, it was fun and hectic at the same time. But after some time, I realised it's not enough I can't call it a real language if it can't compile itself. So I decided to learn assembly.
+
+And well how stupid I was? Although the process is not that different then interpreted language just some addition and removals. `Assembler`, interpreted language doesn't need that, `VM`, compiler doesn't need that.
+
+But that's not the real challenge though the main challenge is platform independence. I am a mac user for a long time, and well initially I thought there shouldn't be much difference between linux and mac. But now I know. Anyhow this is my first post, I didn't had anything to write, so I just wrote anything that came in my mind. I am gonna keep this posted, if I have enough time, specially now that I can do this with my `vim` only, so maybe very often.
+
+
